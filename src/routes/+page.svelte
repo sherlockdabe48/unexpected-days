@@ -9,7 +9,7 @@
 
 <section>
 	<div class="welcome">
-		<h2>Welcome to</h2>
+		<p>Welcome to</p>
 		<h1>Unexpected Days</h1>
 	</div>
 
